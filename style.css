@@ -1,0 +1,33 @@
+
+body {
+    background-color: #fff0f5;
+    font-family: 'Segoe UI', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    color: #ff1493;
+    font-size: 2.5em;
+}
+.image {
+    max-width: 80%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    margin-top: 20px;
+}
+.nav {
+    margin-top: 30px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    background: #ff69b4;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin: 5px;
+}
+.cake {
+    font-size: 4em;
+    margin: 20px;
+}
